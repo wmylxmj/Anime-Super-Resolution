@@ -9,7 +9,7 @@
 - evaluate.py -- 在不同难度等级下测试网络表现
 
 #### 图像降采样
-- 使用NEAREST, BICUBIC, BILINEAR, HAMMING, LANCZOS插值方法将图像缩减4~16倍
+- 使用NEAREST, BICUBIC, BILINEAR, HAMMING, LANCZOS插值方法将图像缩减4~12倍
 - 使用半径1~3的核进行高斯模糊
 
 ### Demo(LR, SR)
