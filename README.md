@@ -25,25 +25,25 @@
 </div>
 
 ### 难度测试
-#### Easy（缩减倍率 4~6，模糊半径 1~1.5）
+#### Easy（缩减倍率 4 ~ 6，模糊半径 1 ~ 1.5）
 <div align="center">
   <img src="images/easy_lr.jpg" width="420" >
   <img src="images/easy_sr.jpg" width="420" >
 </div>
 
-#### Normal（缩减倍率 6~8，模糊半径 1.5~2）
+#### Normal（缩减倍率 6 ~ 8，模糊半径 1.5 ~ 2）
 <div align="center">
   <img src="images/normal_lr.jpg" width="420" >
   <img src="images/normal_sr.jpg" width="420" >
 </div>
 
-#### Hard（缩减倍率 8~10，模糊半径 2~2.5）
+#### Hard（缩减倍率 8 ~ 10，模糊半径 2 ~ 2.5）
 <div align="center">
   <img src="images/hard_lr.jpg" width="420" >
   <img src="images/hard_sr.jpg" width="420" >
 </div>
 
-#### Lunatic（缩减倍率 10~12，模糊半径 2.5~3）
+#### Lunatic（缩减倍率 10 ~ 12，模糊半径 2.5 ~ 3）
 <div align="center">
   <img src="images/lunatic_lr.jpg" width="420" >
   <img src="images/lunatic_sr.jpg" width="420" >
