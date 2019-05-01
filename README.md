@@ -31,8 +31,13 @@
   <img src="images/lunatic_sr.jpg" width="420" >
 </div>
 
-### 测试图片放大
-![](outputs/lr_10.jpg)
-![](outputs/sr_10.jpg)
-![](outputs/lr_11.jpg)
-![](outputs/sr_11.jpg)
+### 测试集表现
+<div align="center">
+  <img src="images/lr_10.jpg" width="420" >
+  <img src="images/sr_10.jpg" width="420" >
+</div>
+
+<div align="center">
+  <img src="images/lr_11.jpg" width="420" >
+  <img src="images/sr_11.jpg" width="420" >
+</div>
