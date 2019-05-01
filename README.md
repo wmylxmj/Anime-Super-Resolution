@@ -8,7 +8,7 @@
 - predict.py -- 测试集预测
 - evaluate.py -- 在不同难度等级下测试网络表现
 
-### Demo
+### Demo(LR, SR)
 <div align="center">
   <img src="images/demo_lr_1.jpg" width="420" >
   <img src="images/demo_sr_1.jpg" width="420" >
