@@ -7,6 +7,19 @@
 - train.py -- 模型训练
 - predict.py -- 测试集预测
 - evaluate.py -- 在不同难度等级下测试网络表现
+
+### Demo
+<div align="center">
+  <img src="images/demo_lr_1.jpg" width="420" >
+  <img src="images/demo_sr_1.jpg" width="420" >
+  <img src="images/demo_lr_2.jpg" width="420" >
+  <img src="images/demo_sr_2.jpg" width="420" >
+  <img src="images/demo_lr_3.jpg" width="420" >
+  <img src="images/demo_sr_3.jpg" width="420" >
+  <img src="images/demo_lr_4.jpg" width="420" >
+  <img src="images/demo_sr_4.jpg" width="420" >
+</div>
+
 ### 难度测试
 #### Easy
 <div align="center">
