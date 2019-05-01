@@ -12,3 +12,18 @@
   <img src="images/easy_lr.jpg" width="420" >
   <img src="images/easy_sr.jpg" width="420" >
 </div>
+#### Normal
+<div align="center">
+  <img src="images/normal_lr.jpg" width="420" >
+  <img src="images/normal_sr.jpg" width="420" >
+</div>
+#### Hard
+<div align="center">
+  <img src="images/hard_lr.jpg" width="420" >
+  <img src="images/hard_sr.jpg" width="420" >
+</div>
+#### Lunatic
+<div align="center">
+  <img src="images/lunatic_lr.jpg" width="420" >
+  <img src="images/lunatic_sr.jpg" width="420" >
+</div>
