@@ -33,8 +33,8 @@
 
 ### 测试集表现
 <div align="center">
-  <img src="outputs/lr_10.jpg" width="420" >
-  <img src="outputs/sr_10.jpg" width="420" >
+  <img src="outputs/lr_22.jpg" width="420" >
+  <img src="outputs/sr_22.jpg" width="420" >
 </div>
 
 <div align="center">
