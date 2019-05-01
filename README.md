@@ -9,6 +9,6 @@
 ### 难度测试
 #### Easy
 <div align="center">
-  <img src="images/easy_lr.jpg" width="256" >
-  <img src="images/easy_sr.jpg" width="256" >
+  <img src="images/easy_lr.jpg" width="420" >
+  <img src="images/easy_sr.jpg" width="420" >
 </div>
